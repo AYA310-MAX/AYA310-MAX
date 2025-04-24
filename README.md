@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there 👋🏾 I'm Ayanda Koketso Dlamini!
 
-<!--
-**AYA310-MAX/AYA310-MAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a 2nd-year Software Engineering student at Eduvos with a love for building tech that empowers, educates, and connects people.
 
-Here are some ideas to get you started:
+💻 Currently:
+- Secretary of the Eduvos Coding Club 🧠
+- Led a full-on **Web Development Hackathon** as an organizer + mentor
+- Learning **AWS Cloud** (EC2, S3, IAM, Lambda)
+- Exploring the magic of **Linux** (Ubuntu & Kali)
+- Working on side projects involving full-stack web dev & cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech Stack:
+```html
+Languages: JavaScript | HTML | CSS | Python  
+Tools: Git & GitHub | AWS | Figma | VSCode | Netlify | Linux  
+Learning: React | Node.js | MongoDB  
