@@ -13,4 +13,5 @@
 ```html
 Languages: JavaScript | HTML | CSS | Python  
 Tools: Git & GitHub | AWS | Figma | VSCode | Netlify | Linux  
-Learning: React | Node.js | MongoDB  
+Learning: React | Node.js | MongoDB
+
