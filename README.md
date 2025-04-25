@@ -62,12 +62,31 @@
 </p>
 
 ---
+### 🌍 Open Source History
 
+Even though this GitHub account is new, I’ve been part of the open source game since **October 2024**, contributing to community projects under a different alias. The hustle’s been real 💪🏾💻
+
+![Open Source Contributor](https://img.shields.io/badge/Contributor-Since%202024-00ff88?style=for-the-badge&logo=github)
+
+---
 
 ### 🌟 GitHub Stats
 
 ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYA310-MAX&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AYA310-MAX&layout=compact&theme=radical)
+
+### 🧬 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYA310-MAX&layout=compact&langs_count=10&theme=matrix&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding%20Vibes-Java%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-00FF00?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+
+> 🧠 Mostly vibin' with: **Java**, **JavaScript**, **HTML**, and **CSS**
+
 
 ---
 
