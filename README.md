@@ -75,12 +75,6 @@ Even though this GitHub account is new, I’ve been part of the open source game
 
 ### 🧬 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYA310-MAX&layout=compact&langs_count=10&theme=matrix&hide_border=true" alt="Top Langs" />
-</p>
-
-
-
 > 🧠 Mostly vibin' with: **Java**, **JavaScript**, **HTML**, and **CSS**
 
 
