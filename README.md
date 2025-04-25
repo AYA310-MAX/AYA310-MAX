@@ -20,6 +20,8 @@ Learning: React | Node.js | MongoDB
 
 ---
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ayanda+Koketso+Dlamini;Software+Engineering+Student+%7C+Tech+Enthusiast;Lover+of+God,+Books,+and+Sunflowers)
+
 ### 🌟 GitHub Stats
 
 ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYA310-MAX&show_icons=true&theme=radical)
