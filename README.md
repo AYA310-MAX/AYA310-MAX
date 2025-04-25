@@ -54,13 +54,7 @@
 
 ---
 
-### 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYA310-MAX&show_icons=true&theme=tokyonight" height="170"/>
-</p>
-
----
 ### 🌍 Open Source History
 
 Even though this GitHub account is new, I’ve been part of the open source game since **October 2024**, contributing to community projects under a different alias. The hustle’s been real 💪🏾💻
