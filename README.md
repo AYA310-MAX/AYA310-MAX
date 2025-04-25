@@ -2,6 +2,13 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExengydnQ0a3N5dnlhYXJmNTU0dWx1OTgyZHczcnpsdW9ubzAxMnh4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" alt="Matrix gif" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/AYA310-MAX" target="_blank">
+    <img src="https://img.shields.io/github/stars/AYA310-MAX?style=social" alt="GitHub stars" />
+  </a>
+</p>
+
+
 <h1 align="center">Hey, I’m <span style="color:#ff66cc;">Ayanda</span> aka AYA310-MAX 👾</h1>
 <p align="center">🌻 Faith-Fueled Software Engineering Student | 💻 Tech & Anime Enthusiast | 🌈 Powered by Pink, Green & God</p>
 
