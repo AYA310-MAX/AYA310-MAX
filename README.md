@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.gifer.com/origin/e2/e203b5c3e3d2529d9b170bd7bfa2b3c3.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExengydnQ0a3N5dnlhYXJmNTU0dWx1OTgyZHczcnpsdW9ubzAxMnh4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif)" alt="Matrix" width="100%" />
+  <img src="https://i.gifer.com/origin/e2/e203b5c3e3d2529d9b170bd7bfa2b3c3.gif" alt="Matrix" width="100%" />
 </p>
 <h1 align="center">Hi, I'm Ayanda 👾</h1>
 <p align="center">Software Engineering Student • Tech Lover • Faith-Fueled Coder</p>
