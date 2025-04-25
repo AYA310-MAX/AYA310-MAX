@@ -1,4 +1,8 @@
-# Hey there 👋🏾 I'm Ayanda Koketso Dlamini!
+<p align="center">
+  <img src="[https://i.gifer.com/origin/e2/e203b5c3e3d2529d9b170bd7bfa2b3c3.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExengydnQ0a3N5dnlhYXJmNTU0dWx1OTgyZHczcnpsdW9ubzAxMnh4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif)" alt="Matrix" width="100%" />
+</p>
+<h1 align="center">Hi, I'm Ayanda 👾</h1>
+<p align="center">Software Engineering Student • Tech Lover • Faith-Fueled Coder</p>
 
 🌱 I'm a 2nd-year Software Engineering student at Eduvos with a love for building tech that empowers, educates, and connects people.
 
@@ -19,8 +23,6 @@ Learning: React | Node.js | MongoDB
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYA310-MAX&theme=radical)
 
 ---
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ayanda+Koketso+Dlamini;Software+Engineering+Student+%7C+Tech+Enthusiast;Lover+of+God,+Books,+and+Sunflowers)
 
 ### 🌟 GitHub Stats
 
